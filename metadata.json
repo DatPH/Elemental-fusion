@@ -1,0 +1,6 @@
+{
+  "name": "Elemental Fusion",
+  "description": "A minimalist, premium elemental grid puzzle game where elements combine, fuse, and evolve into cosmic powers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
